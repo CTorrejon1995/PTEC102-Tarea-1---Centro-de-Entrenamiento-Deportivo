@@ -123,3 +123,52 @@ Métodos clave:
 
 ```bash
 git clone https://github.com/CTorrejon1995/PTEC102-Tarea-1---Centro-de-Entrenamiento-Deportivo.git
+```
+
+2. Compilar el programa:
+
+```bash
+g++ main.cpp -o programa
+```
+
+3. Ejecutar:
+
+```bash
+./programa
+```
+
+---
+
+## 📖 Contexto académico
+
+Este proyecto fue desarrollado como parte de la asignatura:
+
+Paradigmas de la Programación
+Universidad Andrés Bello
+
+---
+
+## 👨‍💻 Autor
+
+Christopher Torrejón
+
+- Ingeniería Civil Industrial
+- Ingeniería Civil Informática
+
+---
+
+## 📝 Observaciones
+
+El sistema fue diseñado con un enfoque modular y escalable, permitiendo futuras mejoras como:
+
+Persistencia de datos (archivos o base de datos)
+Interfaz gráfica
+Mejora en la gestión de memoria (punteros inteligentes)
+
+---
+
+# ⭐ Conclusión
+
+Este proyecto demuestra la aplicación práctica de la programación orientada a objetos en la resolución de problemas reales, permitiendo desarrollar un sistema flexible, mantenible y escalable para la gestión de rutinas de entrenamiento.
+
+---
